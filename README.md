@@ -12,7 +12,7 @@ Flask REST API를 통해 MySQL DB 저장과 메신저(슬랙/디스코드/텔레
 - n8n 워크플로우
 ![실행 화면](images/n8n.png)
 - 실행 성공
-![실행 화면](images/n8n 실행성공.png)
+![실행 화면](images/n8n실행성공.png)
 ![실행 화면](images/파이썬실행.png)
 - 메신저(슬랙/디스코드/텔레그램)에 알림
 ![실행 화면](images/메신저.png)
